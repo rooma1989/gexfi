@@ -1,0 +1,3 @@
+[build]
+  publish = "www.gexfi.com"
+  command = ""
