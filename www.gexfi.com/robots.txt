@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://gexfi.com/sitemap.xml
+Disallow: /_review/
