@@ -12,4 +12,12 @@ The separate H5 application at `h5.gexfi.com` is outside this repository. This b
 
 ## Local preview
 
-Run `python3 -m http.server 4195 --directory www.gexfi.com` and open `http://localhost:4195/`.
+Run `node scripts/preview.mjs` and open `http://localhost:4195/`. The preview serves both the static pages and the local rate function. For live rates, fill a local `.env` file using `.env.example` and run `node --env-file=.env scripts/preview.mjs`. The installed `gexfi-preview` user service also reads `.env` when restarted. Without credentials, the board displays an unavailable state.
+
+## Exchange rate board
+
+The four language versions of `nzd-aud-usdt-exchange.html` display the seven customer reference rates from the GEXFI rate board. A Netlify Function at `/.netlify/functions/rate-board` signs the upstream request and returns only the pair, availability, customer rate and retrieval time. It does not expose API credentials, source rates or company adjustments. Unavailable, disabled and stale rates are hidden. Final order quotes remain in the H5 application.
+
+Set `GEXFI_RATE_BOARD_APP_KEY` and `GEXFI_RATE_BOARD_APP_SECRET` in the Netlify site's environment variables with **Functions** scope. Use the dedicated website client with the `gexfi-rate-board` scope. Do not put these values in the published files or `netlify.toml`. Redeploy after adding or changing them.
+
+Run `node --test tests/rate-board.test.mjs` to verify request signing and response filtering without real credentials.

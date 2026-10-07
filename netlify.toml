@@ -1,3 +1,6 @@
 [build]
   publish = "www.gexfi.com"
   command = ""
+
+[functions]
+  directory = "netlify/functions"

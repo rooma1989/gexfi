@@ -1,0 +1,11 @@
+.gex-rate-board { background: #f6f7f9; border-top: 1px solid #e7e9ed; border-bottom: 1px solid #e7e9ed; }
+.gex-rate-board .gex-rate-intro { max-width: 760px; color: #68707b; }
+.gex-rate-status { min-height: 1.6em; margin: 12px 0 24px; color: #68707b; font-size: .92rem; }
+.gex-rate-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
+.gex-rate-card { display: flex; flex-direction: column; gap: 10px; min-width: 0; padding: 22px; border: 1px solid #e1e5eb; border-radius: 18px; background: #fff; }
+.gex-rate-pair { color: #626b77; font-size: .86rem; letter-spacing: .04em; }
+.gex-rate-value { color: #202124; font-size: clamp(1.65rem, 2.4vw, 2.25rem); font-weight: 750; line-height: 1.1; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+.gex-rate-unit { color: #727b86; line-height: 1.5; }
+.gex-rate-note { margin: 22px 0 0; color: #68707b; font-size: .9rem; line-height: 1.6; }
+@media (max-width: 900px) { .gex-rate-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .gex-rate-grid { grid-template-columns: 1fr; } }
