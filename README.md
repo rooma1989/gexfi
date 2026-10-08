@@ -10,6 +10,12 @@ The release includes English (`/`), Simplified Chinese (`/zh/`), Indonesian (`/i
 
 The separate H5 application at `h5.gexfi.com` is outside this repository. This branch contains the website release only; production follows the existing `main` deployment workflow.
 
+## V8 USDT Income integration
+
+The `GEXFI_Production_Integrated_20261009_V8_IT.zip` website content is merged with the current `main` site. It adds `/usdt-income/`, the English and Chinese investment memorandum, and both PDF documents. The shared navigation and footer link to the new product; the four language sites and existing customer rate board remain in place. Legacy USDT card URLs continue to redirect to the Visa card pages.
+
+This is a static website integration. It does not add an H5 subscription flow or account and payment APIs. For local review, run the preview command below and open `/usdt-income/` or `/usdt-income/?lang=zh`.
+
 ## Local preview
 
 Run `node scripts/preview.mjs` and open `http://localhost:4195/`. The preview serves both the static pages and the local rate function. For live rates, fill a local `.env` file using `.env.example` and run `node --env-file=.env scripts/preview.mjs`. The installed `gexfi-preview` user service also reads `.env` when restarted. Without credentials, the board displays an unavailable state.

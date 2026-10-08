@@ -1,4 +1,4 @@
-import { createReadStream } from 'node:fs';
+import { createReadStream, readFileSync } from 'node:fs';
 import { stat } from 'node:fs/promises';
 import http from 'node:http';
 import path from 'node:path';
@@ -6,6 +6,11 @@ import { fileURLToPath } from 'node:url';
 import rateBoard from '../netlify/functions/rate-board.mjs';
 
 const site = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../www.gexfi.com');
+const redirects = new Map(readFileSync(path.join(site, '_redirects'), 'utf8')
+  .split('\n')
+  .map(line => line.trim().split(/\s+/))
+  .filter(parts => parts.length === 3)
+  .map(([source, destination, status]) => [source, { destination, status: Number(status) }]));
 const port = Number(process.env.PREVIEW_PORT || 4195);
 const host = process.env.PREVIEW_HOST || '127.0.0.1';
 const mime = {
@@ -13,6 +18,8 @@ const mime = {
   '.css': 'text/css; charset=utf-8',
   '.js': 'text/javascript; charset=utf-8',
   '.png': 'image/png',
+  '.webp': 'image/webp',
+  '.pdf': 'application/pdf',
   '.xml': 'application/xml; charset=utf-8',
   '.txt': 'text/plain; charset=utf-8',
 };
@@ -28,6 +35,12 @@ http.createServer(async (req, res) => {
     }
     if (!['GET', 'HEAD'].includes(req.method)) {
       res.writeHead(405, { Allow: 'GET, HEAD' });
+      res.end();
+      return;
+    }
+    const redirect = redirects.get(url.pathname);
+    if (redirect) {
+      res.writeHead(redirect.status, { Location: redirect.destination });
       res.end();
       return;
     }

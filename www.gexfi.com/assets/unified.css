@@ -147,3 +147,6 @@ body[data-page="visa-card"] .vx-hero-image img{display:block;width:100%;max-widt
 body[data-page="visa-card"][data-locale="id"] .hero,body[data-page="visa-card"][data-locale="vi"] .hero{padding:0}
 @media(max-width:850px){body[data-page="visa-card"] .hero-grid{grid-template-columns:1fr;gap:20px;padding-top:44px;padding-bottom:32px;min-height:0}body[data-page="visa-card"] .vx-hero-image img{max-width:440px}body[data-page="visa-card"] .hero-copy{padding-top:0}}
 @media(max-width:600px){body[data-page="visa-card"] .hero h1{font-size:clamp(28px,8vw,36px)!important;line-height:1.2!important}body[data-page="visa-card"][data-locale="zh"] .hero h1{font-size:clamp(25px,7.2vw,34px)!important;line-height:1.3!important}}
+
+/* Income navigation only: preserve all existing page/body styles. */
+@media(min-width:761px) and (max-width:920px){.u-nav nav{display:none}.u-menu{display:block}.u-header.expanded nav{display:flex;position:absolute;left:0;right:0;top:76px;background:#171717;padding:25px;flex-direction:column;gap:24px}.u-tools{margin-left:auto}}
