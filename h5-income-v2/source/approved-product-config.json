@@ -1,0 +1,52 @@
+{
+  "version": "website-memo-v7",
+  "scope": "approved-website-and-memorandum-only",
+  "rates": [
+    {
+      "days": 90,
+      "target_annual_rate": 0.038
+    },
+    {
+      "days": 180,
+      "target_annual_rate": 0.045
+    },
+    {
+      "days": 365,
+      "target_annual_rate": 0.05
+    }
+  ],
+  "rate_basis": "Net annual target after 0.50% p.a. product management fee; before separate transaction costs and personal taxes",
+  "management_fee_annual": 0.005,
+  "eligible_funding": "qualifying settled GEXFI purchase only",
+  "external_USDT_subscription": false,
+  "flexible_product": false,
+  "income_display": "estimated accrual, confirmed income and paid amounts are separate",
+  "day_count": "ACT/365, simple interest",
+  "settlement_currency": "USDT",
+  "settlement_destination": "GEXFI Wallet",
+  "ordinary_early_redemption": false,
+  "automatic_renewal": false,
+  "subscription_limits_source": "account-specific pre-contract terms",
+  "start_and_maturity_source": "accepted subscription confirmation",
+  "legal_counterparty_source": "accepted subscription agreement",
+  "manager_source": "accepted management and subscription terms",
+  "custody_source": "actual asset-holding agreement and account ownership records",
+  "settlement_timing_source": "accepted order terms",
+  "historical_governance_reference": {
+    "entity_as_named_in_2025_memo": "Eternova GP Limited",
+    "legacy_fund": "Silver Fern No.1 Fund",
+    "reference_in_source": "FSP554706",
+    "source": "Investment Memorandum 2025, pp. 3–6",
+    "use": "Historical governance reference only; not an assertion of current licensing or new-product appointment"
+  },
+  "memo_version": "1.0",
+  "document_type": "product information",
+  "document_date": "2026-10-08",
+  "requires_precontract_agreement": true,
+  "live_subscription": false,
+  "h5_routes_modified": false,
+  "documents": {
+    "en": "documents/GEX_USDT_Income_Investment_Memorandum_EN_v1.0.pdf",
+    "zh": "documents/GEX_USDT_Income_Investment_Memorandum_ZH_v1.0.pdf"
+  }
+}

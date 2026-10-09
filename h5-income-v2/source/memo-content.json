@@ -1,0 +1,199 @@
+{
+  "version": "1.0",
+  "date": "2026-10-08",
+  "status": "product_information",
+  "labels": {
+    "en": {
+      "document": "Investment Memorandum",
+      "brand": "GEX USDT Income",
+      "kicker": "PRODUCT DOCUMENTS",
+      "sub": "Terms, income, fees and risk information for the GEX USDT Income product range.",
+      "review": "Version 1.0",
+      "date": "8 October 2026",
+      "contents": "Contents",
+      "back": "Back to product",
+      "download": "Download PDF",
+      "online": "Read online",
+      "days": "days",
+      "target": "Net target p.a.",
+      "risk": "Target returns are not guaranteed. Capital is at risk.",
+      "statusTitle": "Reading this memorandum",
+      "status": "Read this memorandum together with the subscription agreement and the terms presented for your account. The legal counterparty, asset-holding arrangements and settlement conditions are disclosed before you commit funds. Availability is subject to account and product eligibility.",
+      "footer": "GEX USDT Income · Investment Memorandum",
+      "print": "Print document",
+      "top": "Back to top",
+      "coverline": "Defined terms.\nClear information.",
+      "scope": "Applies to the 90-day, 180-day and 365-day product range.",
+      "coverNote": "PRODUCT INFORMATION · READ WITH YOUR SUBSCRIPTION AGREEMENT"
+    },
+    "zh": {
+      "document": "投资说明书",
+      "brand": "GEX USDT Income",
+      "kicker": "PRODUCT DOCUMENTS · 产品文件",
+      "sub": "GEX USDT Income 产品的期限、收益、费用与风险说明。",
+      "review": "版本 1.0",
+      "date": "2026 年 10 月 8 日",
+      "contents": "文件目录",
+      "back": "返回产品页面",
+      "download": "下载 PDF",
+      "online": "在线阅读",
+      "days": "天",
+      "target": "扣管理费后目标年化",
+      "risk": "目标收益不保证，本金存在风险。",
+      "statusTitle": "阅读本说明书",
+      "status": "请将本说明书与申购协议及账户展示的适用条款一并阅读。签约法律主体、资产持有安排与结算条件在客户作出资金承诺前披露；服务开放以账户及产品资格为准。",
+      "footer": "GEX USDT Income · 投资说明书",
+      "print": "打印文件",
+      "top": "返回顶部",
+      "coverline": "期限明确。\n信息清晰。",
+      "scope": "适用于 90 天、180 天及 365 天三档产品。",
+      "coverNote": "产品说明文件 · 请与申购协议一并阅读"
+    }
+  },
+  "sections": {
+    "en": [
+      {
+        "id": "overview",
+        "number": "01",
+        "title": "Product overview",
+        "intro": "A fixed-term USDT income product within the GEXFI account experience.",
+        "body": "<p>GEX USDT Income is designed for eligible customers who purchase USDT through GEXFI and wish to allocate a portion of their balance for a defined period. The product has three terms: 90 days, 180 days and 365 days. Subscriptions, income illustrations and redemption amounts are denominated in USDT.</p><p>The product connects income holdings with GEXFI Wallet and, separately, eligible card funding services. An Income holding is not available wallet cash and cannot be spent directly using a card. At maturity, the redemption process returns the payable amount to the customer’s GEXFI Wallet before any further transfer or card funding transaction.</p><h3>Product at a glance</h3><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>Feature</th><th>Description</th></tr></thead><tbody><tr><td>Product name</td><td>GEX USDT Income</td></tr><tr><td>Denomination</td><td>USDT</td></tr><tr><td>Terms</td><td>90, 180 or 365 calendar days</td></tr><tr><td>Target annualized rates</td><td>3.80%, 4.50% and 5.00%, respectively</td></tr><tr><td>Rate basis</td><td>Net of the product management fee; before separate transaction costs and personal taxes</td></tr><tr><td>Eligible funding</td><td>Qualifying USDT purchased through GEXFI</td></tr><tr><td>Access to funds</td><td>Fixed term; redemption at maturity, under the applicable redemption terms</td></tr><tr><td>Minimum subscription</td><td>The current minimum and maximum are displayed before subscription confirmation</td></tr></tbody></table></div><aside class=\"note\">Target returns are objectives, not a guarantee. The amount ultimately payable may be lower than an illustration, and capital may be lost. This is not a bank deposit or a Tether-issued income product.</aside><h3>Who should consider the product?</h3><p>Customers should be able to leave the subscription amount invested for the full term and accept investment and digital-asset risks. The product is not designed for emergency funds or balances needed for near-term spending. Eligibility remains subject to account approval, product availability and applicable service restrictions.</p>"
+      },
+      {
+        "id": "terms",
+        "number": "02",
+        "title": "Terms & target returns",
+        "intro": "Compare the annualized target and the illustrative return over each full term.",
+        "body": "<div class=\"table-scroll\"><table class=\"rate-table\"><thead><tr><th>Product</th><th>Term</th><th>Net target p.a.</th><th>Illustrative term return</th></tr></thead><tbody><tr><td>USDT Income 90</td><td>90 days</td><td><b>3.80%</b></td><td>0.9370%</td></tr><tr><td>USDT Income 180</td><td>180 days</td><td><b>4.50%</b></td><td>2.2192%</td></tr><tr><td>USDT Income 365</td><td>365 days</td><td><b>5.00%</b></td><td>5.0000%</td></tr></tbody></table></div><p>Rates are expressed on an annualized, simple-interest basis using a 365-day denominator. They are not APYs and do not assume reinvestment or compounding. A 3.80% annual target over 90 days does not mean a 3.80% return after 90 days.</p><h3>Illustration: 1,000 USDT for one full term</h3><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>Term</th><th>Target income</th><th>Principal + target income</th></tr></thead><tbody><tr><td>90 days</td><td>9.37 USDT</td><td>1,009.37 USDT</td></tr><tr><td>180 days</td><td>22.19 USDT</td><td>1,022.19 USDT</td></tr><tr><td>365 days</td><td>50.00 USDT</td><td>1,050.00 USDT</td></tr></tbody></table></div><aside class=\"note\">Illustrations assume the full amount is accepted, held for the entire term and earns the stated target. Figures are rounded to two decimals for display. They are not forecasts of actual performance, confirmed payment amounts or minimum subscription amounts.</aside><h3>Your subscription confirmation</h3><p>Your subscription confirmation identifies the product, accepted amount, target rate, fee basis, start date, maturity date and applicable document version. The effective start and maturity timestamps are recorded in the confirmation. Calculations use the full underlying precision; customer-facing illustrations are rounded to two decimals, and the settlement statement records the payable USDT amount and any rounding adjustment. A rate shown for a new product is not authority to rewrite an existing customer’s agreed terms.</p><h3>No automatic reinvestment assumption</h3><p>Maturity does not imply automatic renewal. Any future reinvestment would require a separate instruction or an expressly agreed mandate, at the terms available for that new subscription.</p>"
+      },
+      {
+        "id": "eligibility",
+        "number": "03",
+        "title": "Eligibility & subscriptions",
+        "intro": "The initial product is limited to qualifying GEXFI-purchased USDT.",
+        "body": "<p>A GEXFI account or wallet balance does not itself establish product eligibility. Account and product checks apply. Direct external-USDT deposits are not eligible for the initial Income product.</p><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>Funding source</th><th>Initial product treatment</th></tr></thead><tbody><tr><td>Qualifying USDT bought through GEXFI</td><td>May be used for subscription after purchase settlement and eligibility checks</td></tr><tr><td>USDT deposited directly from an external wallet</td><td>Not eligible for Income subscription</td></tr><tr><td>A balance reserved for another transaction</td><td>Not available for a new subscription</td></tr><tr><td>Unsettled or pending purchase proceeds</td><td>Not eligible until settlement and any required review are complete</td></tr><tr><td>Visa Card balance</td><td>Not treated as subscription funds merely because the card is linked</td></tr></tbody></table></div><h3>Subscription process</h3><div class=\"steps\"><div class=\"step\"><span>01</span><div><h3>Review the product</h3><p>Select a term, read the memorandum and applicable agreements, and review the target return and exit rules.</p></div></div><div class=\"step\"><span>02</span><div><h3>Confirm eligible funds</h3><p>Check the settled, available amount eligible for subscription. Calculator presets do not establish a minimum investment.</p></div></div><div class=\"step\"><span>03</span><div><h3>Submit your instruction</h3><p>Confirm the amount and required acknowledgements. An instruction is not accepted merely because it has been submitted.</p></div></div><div class=\"step\"><span>04</span><div><h3>Receive confirmation</h3><p>An accepted subscription is recorded separately from available wallet funds. The confirmation establishes the applicable dates and terms.</p></div></div></div><p>The account presents the applicable subscription limits and service availability before an instruction can be confirmed. Only settled, eligible funds can be reserved. If an instruction is declined or cancelled before acceptance, its reservation is released without creating an Income holding. Restricted accounts or unmatched payments may require further verification. Income is not attributed to a period before the confirmed start date.</p>"
+      },
+      {
+        "id": "income-fees",
+        "number": "04",
+        "title": "Income calculation & fees",
+        "intro": "The displayed annual targets already reflect the 0.50% p.a. product management fee.",
+        "body": "<div class=\"formula\">Illustrative income = principal × net annual target × term days ÷ 365</div><p>For 1,000 USDT over 180 days, the illustration is 1,000 × 4.50% × 180 ÷ 365 = 22.1917808 USDT, displayed as 22.19 USDT. A daily target-equivalent calculation is an accrual illustration, not a promise of a daily cash payment.</p><h3>Income records and settlement</h3><p>Holdings may display target accruals and subsequently confirmed income. The interface and statements must distinguish estimated amounts, confirmed amounts and amounts paid. Seeing a number on a daily chart does not mean that the same amount can be withdrawn that day. The settlement statement distinguishes the target illustration from the realized result, identifies any shortfall and shows the actual amount payable. Income is settled with the holding at maturity under the subscription terms; a daily record is not a separate daily distribution.</p><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>Fee or cost</th><th>How it is presented</th></tr></thead><tbody><tr><td>Product management fee</td><td>0.50% p.a., already reflected in the net target rates. It is not deducted a second time from the stated net target income.</td></tr><tr><td>Purchase and exchange services</td><td>The quote may include an exchange-rate margin. Review the total amount payable and net amount receivable before accepting.</td></tr><tr><td>Card funding and card use</td><td>Separate services, with applicable fees and the resulting credit shown under the relevant quote or card terms.</td></tr><tr><td>Blockchain transfers</td><td>Network or transfer costs may apply where a blockchain withdrawal is requested.</td></tr><tr><td>Taxes</td><td>Personal tax treatment is not included in the displayed target rates.</td></tr></tbody></table></div><aside class=\"note\">“Net target” means after the stated product management fee. It does not mean after all purchase, exchange, transfer, card or personal tax costs. No claim is made that this product is fee-free.</aside><p>The product fee schedule supplied before confirmation identifies the calculation base, collection timing and fee recipient. There is no second 0.50% deduction from the stated net target income. A separate service charge requires its own disclosed quote; it is not silently deducted as another management fee. Internal trading costs and commercial margins are not represented as investment returns.</p>"
+      },
+      {
+        "id": "management",
+        "number": "05",
+        "title": "Management, governance & asset holding",
+        "intro": "A defined governance process, with legal responsibilities set out in the subscription documents.",
+        "body": "<h3>Eternova institutional background</h3><p>The governance design draws on the framework described in the 2025 Investment Memorandum for Silver Fern No.1 Fund. That document identifies Eternova GP Limited as the general partner and records FSP554706 as its financial service provider reference, with responsibilities for operations, compliance oversight and fiduciary duties. Its framework includes an investment committee, risk committee, non-executive oversight and documented decisions. [2]</p><p>This is institutional background, not a statement that Silver Fern No.1 Fund issues or guarantees GEX USDT Income. The legacy fund’s assets, investor rights and third-party appointments are not transferred by this memorandum. An FSP reference is not, by itself, a financial-services licence or product approval. [3]</p><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>Function</th><th>Responsibility within the product</th></tr></thead><tbody><tr><td>GEXFI customer interface</td><td>Product information, account access, subscription records, statements and wallet / card service connections.</td></tr><tr><td>Issuer and contracting party</td><td>The entity named in the subscription agreement assumes the obligations stated there. Customers receive its legal name and the nature of their claim before committing funds.</td></tr><tr><td>Investment management</td><td>The manager identified in the subscription documents administers allocation, exposure limits and income settlement under its mandate.</td></tr><tr><td>Asset holding and custody</td><td>The asset-holding terms identify the actual account holder, custody arrangements and customer rights. A bank deposit provider is not described as an independent custodian merely because it holds a deposit.</td></tr></tbody></table></div><h3>Investment and operational controls</h3><p>The control framework separates investment approvals, treasury execution, financial reconciliation and risk review. It provides for recorded decisions, related-party conflict review and escalation of discrepancies. Internal oversight is distinct from any separately contracted audit, trustee or statutory supervision service.</p><h3>Assets and customer rights</h3><p>USDT is the denomination of the product, not a promise that all assets remain in USDT. The asset strategy uses fiat bank deposits and cash-liquidity arrangements, with conversion and hedging managed internally. Customers should read the asset-holding terms for legal ownership, segregation, control and insolvency treatment. A customer ledger is not, by itself, proof of a trust, security interest or independent custody.</p>"
+      },
+      {
+        "id": "maturity",
+        "number": "06",
+        "title": "Maturity & redemption",
+        "intro": "Redemption follows maturity and settlement; it is not an on-demand withdrawal.",
+        "body": "<p>The 90-day, 180-day and 365-day products are intended to be held for their selected calendar-day term. There is no flexible product in this range. The accepted subscription confirmation records the start and maturity dates and the applicable redemption instruction.</p><div class=\"steps\"><div class=\"step\"><span>01</span><div><h3>Maturity reached</h3><p>The holding enters its maturity settlement process. An elapsed term does not, on its own, create available wallet funds.</p></div></div><div class=\"step\"><span>02</span><div><h3>Income and payable amount confirmed</h3><p>The settlement statement records principal, actual income, applicable disclosed deductions and the net redemption amount.</p></div></div><div class=\"step\"><span>03</span><div><h3>Wallet credited</h3><p>The payable USDT amount is credited to GEXFI Wallet once settlement and required checks are complete. A processing record is not a completed credit.</p></div></div><div class=\"step\"><span>04</span><div><h3>Funds used or reinvested</h3><p>After credit, the customer can select available wallet, transfer or card services. A new subscription requires its own accepted instruction.</p></div></div></div><h3>Settlement timing</h3><p>The timing and business-day convention applicable to an order are supplied before confirmation and retained with that order. The account displays the expected settlement date and progress. Maturity does not imply T+0 payment, and an internal wallet credit does not mean that a bank or card has also been credited.</p><h3>Early exit and cancellation</h3><p>An instruction can only be cancelled before acceptance where the account permits it. Accepted fixed-term holdings are not available for ordinary early withdrawal. Any exceptional exit permitted by law or accepted under the agreement is assessed separately; the quoted income adjustment and disclosed costs require the customer’s acceptance. No secondary-market buyer or platform repurchase is promised.</p><h3>Delays, failed settlement and renewal</h3><p>A required verification, account restriction, disputed instruction or execution failure may interrupt settlement. The customer record preserves the amount, reason and status until resolution; a failed transaction is not labelled completed. Customer communications follow the applicable agreement. No automatic renewal is assumed: reinvestment requires a new instruction or an express mandate, with the new term and rate disclosed in advance.</p>"
+      },
+      {
+        "id": "records-card",
+        "number": "07",
+        "title": "Wallet, card & digital records",
+        "intro": "Connected services, with separate balances and a clear transaction record.",
+        "body": "<h3>Wallet first, card second</h3><p>At the end of the redemption process, funds return to GEXFI Wallet. Card funding is optional and separate. A customer is not required to load a card in order to receive a redemption to the wallet. Card availability, limits and acceptance depend on the relevant card programme.</p><p>Before a card funding transaction, the customer should be shown the funding asset, quoted rate, applicable charges, amount to be credited, quote validity and expected processing terms. USDT-denominated holdings are not automatically USD-denominated card money, and no 1:1 conversion is assumed.</p><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>Record</th><th>What it establishes</th></tr></thead><tbody><tr><td>Subscription confirmation</td><td>The accepted order, amount, term, dates and applicable document version</td></tr><tr><td>Income record</td><td>Whether an amount is an estimate, a confirmed allocation or a payment</td></tr><tr><td>Redemption record</td><td>The request, progress and actual settlement outcome</td></tr><tr><td>Wallet / card transaction</td><td>The separate transfer, conversion or card credit actually completed</td></tr><tr><td>Blockchain receipt, where implemented</td><td>Evidence of the stated transaction on the stated network, subject to confirmation</td></tr></tbody></table></div><h3>On-chain evidence</h3><p>If a blockchain record is made available, the network, transaction hash, record type and confirmation status should be identified. A receipt does not independently establish ownership of every underlying asset, the solvency of the issuer or a guaranteed investment value.</p><aside class=\"note\">A digital receipt does not, by itself, create a tradable investment token, free transferability or a secondary market. Any verification link must correspond to an actual record on the stated network. No sample hash is evidence of a live transaction.</aside><h3>Security and corrections</h3><p>Customers should verify instructions through their account and report discrepancies promptly. Corrections to records should preserve the original transaction trail and explain the change. Public blockchain records must not be treated as a substitute for the investment agreement.</p>"
+      },
+      {
+        "id": "risks",
+        "number": "08",
+        "title": "Principal risks",
+        "intro": "Consider the potential loss and access restrictions alongside the target rate.",
+        "body": "<div class=\"table-scroll\"><table class=\"\"><thead><tr><th>Risk</th><th>What it can mean for the customer</th></tr></thead><tbody><tr><td>Capital and performance</td><td>The target may not be achieved. Losses may reduce income or principal; a target rate is not a contractual guarantee of payment.</td></tr><tr><td>Issuer and counterparty</td><td>Failure of the issuer, bank, execution provider or another counterparty may delay payments or cause loss. Legal recourse depends on the subscription agreement and applicable law.</td></tr><tr><td>Liquidity and maturity</td><td>Assets may not be immediately realizable. Fixed terms, settlement delays or permitted suspensions can restrict access to funds.</td></tr><tr><td>Currency and hedging</td><td>Non-USDT asset exposure, exchange movements, hedge mismatch or counterparty failure may affect realized USDT results. Hedging does not remove every risk.</td></tr><tr><td>USDT and market value</td><td>USDT can trade away from USD parity. Issuer terms, eligibility, liquidity or restrictions can affect transfers and redemption. [1]</td></tr><tr><td>Custody, operations and technology</td><td>Key loss, unauthorized access, fraud, record errors, outages or service-provider failure may affect assets and transactions.</td></tr><tr><td>Legal, tax and service changes</td><td>Applicable requirements or provider terms may change, affecting availability, costs, reporting and execution.</td></tr></tbody></table></div><h3>What is not represented</h3><p>No claim is made that a regulator, bank, card network or Tether has approved, insured or guaranteed GEX USDT Income. Internal account records do not establish independent custody, asset insurance or statutory deposit protection for an Income holding.</p><h3>Risk information is not exhaustive</h3><p>Customers should read the applicable asset-holding and subscription terms and obtain advice appropriate to their circumstances and should not rely solely on a calculator, promotional headline or on-chain record when deciding whether to subscribe.</p><p class=\"source-note\">[1] Tether, <a href=\"https://tether.to/en/legal/\" target=\"_blank\" rel=\"noopener noreferrer\">Token Terms of Sale and Service</a> and incorporated risk disclosures, reviewed 8 October 2026. These are third-party token terms, not the GEX product agreement and not evidence of a partnership.</p>"
+      },
+      {
+        "id": "documents",
+        "number": "09",
+        "title": "Agreements, support & document control",
+        "intro": "Product information and transaction-specific terms are read together.",
+        "body": "<p>This memorandum, version 1.0 dated 8 October 2026, describes the GEX USDT Income range. It is a product-information document, not an executed subscription agreement, a licence certificate or evidence that a transaction has been accepted.</p><h3>Your contract and records</h3><p>Before a commitment of funds, the customer receives the subscription agreement identifying the contracting entity, the investment entitlement, management and asset-holding terms, applicable fees, settlement arrangements, governing law and dispute process. The order confirmation then records the accepted amount, rate, term, start and maturity dates, and acknowledged document version. Browsing a webpage or using the calculator does not accept an order.</p><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>Document</th><th>Purpose</th></tr></thead><tbody><tr><td>Investment Memorandum</td><td>Explains the product range, target rates, eligibility, fees, governance and principal risks.</td></tr><tr><td>Subscription agreement and asset-holding terms</td><td>Identify the legal parties, obligations, ownership arrangements and customer rights for the subscription.</td></tr><tr><td>Order confirmation and settlement statement</td><td>Record the specific transaction and its actual settlement outcome.</td></tr><tr><td>Wallet, exchange and card terms</td><td>Govern the separately selected services and their transaction quotes.</td></tr></tbody></table></div><h3>Language and changes</h3><p>English and Chinese versions share the same product parameters and version number. Any controlling-language provision is stated in the accepted agreement. A material discrepancy should be resolved before confirmation. Later website changes do not silently replace the terms of an accepted subscription; records retain the version supplied to the customer.</p><h3>Support and complaints</h3><p>Contact GEXFI at <a href=\"mailto:info@gexfi.com\">info@gexfi.com</a> or through the secure account channel. Quote the order reference and describe the issue. Never send passwords, private keys or complete card credentials. Complaints are directed to the responsible service provider under the accepted agreement; any applicable external dispute-resolution route is stated there.</p><h3>Institutional references</h3><p class=\"source-note\">[2] <em>Investment Memorandum 2025</em>, Silver Fern No.1 Fund, pp. 3–6: Eternova GP Limited and the documented governance framework. Used as historical institutional background, not as a transfer of the legacy fund’s mandate, assets or third-party appointments.<br>[3] New Zealand Companies Office, <a href=\"https://fsp-register.companiesoffice.govt.nz/about/the-role-of-the-fspr/\" target=\"_blank\" rel=\"noopener noreferrer\">The role of the Financial Service Providers Register</a> and <a href=\"https://fsp-register.companiesoffice.govt.nz/help-centre/managing-your-registration-as-a-fsp/keeping-fsp-details-up-to-date/\" target=\"_blank\" rel=\"noopener noreferrer\">Keeping FSP details up to date</a>, accessed 8 October 2026. Registration and licensing are distinct.</p>"
+      }
+    ],
+    "zh": [
+      {
+        "id": "overview",
+        "number": "01",
+        "title": "产品概览",
+        "intro": "在 GEXFI 账户内，以 USDT 申购、记录收益并办理到期赎回的固定期限产品。",
+        "body": "<p>GEX USDT Income 面向通过 GEXFI 购买 USDT、并希望在明确期限内配置部分余额的合格客户，提供 90 天、180 天及 365 天三档产品。申购金额、收益试算及赎回金额均以 USDT 计价。</p><p>产品将收益持仓与 GEXFI 钱包连接，并可在赎回后衔接符合条件的卡充值服务。收益持仓不属于钱包可用余额，不能直接用于卡消费。到期后先按赎回规则将应付金额结算至 GEXFI 钱包，再由客户安排转账、兑换或卡充值。</p><h3>产品要点</h3><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>项目</th><th>说明</th></tr></thead><tbody><tr><td>产品名称</td><td>GEX USDT Income</td></tr><tr><td>计价单位</td><td>USDT</td></tr><tr><td>持有期限</td><td>90、180 或 365 个自然日</td></tr><tr><td>目标年化收益率</td><td>分别为 3.80%、4.50% 和 5.00%</td></tr><tr><td>收益率口径</td><td>已反映产品管理费；不包含独立交易费用及个人税费</td></tr><tr><td>申购资金</td><td>符合条件的 GEXFI 购U资金</td></tr><tr><td>资金退出</td><td>固定期限，到期按最终赎回规则办理</td></tr><tr><td>最低申购金额</td><td>申购确认前展示适用的最低及最高金额</td></tr></tbody></table></div><aside class=\"note\">目标收益不构成收益保证，实际应付金额可能低于试算结果，本金存在损失风险。本产品不是银行存款，也不是 Tether 发行的收益产品。</aside><h3>适用客户</h3><p>客户应能够在所选期限内持有相应资产，并理解投资及数字资产风险。不宜将应急资金或短期消费所需余额用于申购。实际参与资格取决于账户审核、产品开放情况及适用的服务限制。</p>"
+      },
+      {
+        "id": "terms",
+        "number": "02",
+        "title": "期限与目标收益",
+        "intro": "同时查看目标年化收益率与完整持有期的收益试算，避免将年化收益理解为每期收益。",
+        "body": "<div class=\"table-scroll\"><table class=\"rate-table\"><thead><tr><th>产品</th><th>期限</th><th>扣管理费后目标年化</th><th>完整持有期目标收益率</th></tr></thead><tbody><tr><td>USDT Income 90</td><td>90 天</td><td><b>3.80%</b></td><td>0.9370%</td></tr><tr><td>USDT Income 180</td><td>180 天</td><td><b>4.50%</b></td><td>2.2192%</td></tr><tr><td>USDT Income 365</td><td>365 天</td><td><b>5.00%</b></td><td>5.0000%</td></tr></tbody></table></div><p>收益率采用以 365 天为分母的单利年化口径，不属于包含复利假设的 APY。90 天产品的 3.80% 目标年化，不代表持有 90 天即可获得 3.80% 的收益。</p><h3>示例：申购 1,000 USDT 并持有完整期限</h3><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>期限</th><th>目标收益</th><th>本金与目标收益合计</th></tr></thead><tbody><tr><td>90 天</td><td>9.37 USDT</td><td>1,009.37 USDT</td></tr><tr><td>180 天</td><td>22.19 USDT</td><td>1,022.19 USDT</td></tr><tr><td>365 天</td><td>50.00 USDT</td><td>1,050.00 USDT</td></tr></tbody></table></div><aside class=\"note\">试算假设全部金额获接受、完整持有至到期且达到目标收益。显示金额保留两位小数，不代表实际业绩预测、已确认应付款项或最低申购金额。</aside><h3>申购确认信息</h3><p>申购确认载明产品名称、获接受金额、目标收益率、费用口径、起息日、到期日及适用文件版本。起息与到期时间记录在申购确认中。计算保留原始精度，试算页面显示至小数点后两位；结算单列明实际应付 USDT 金额及舍入调整。新产品展示的利率，不构成改变客户既有约定的依据。</p><h3>不默认自动续投</h3><p>产品到期不代表自动续投。后续续投须依据客户单独指令或明确授权，并适用新一期申购时的产品条款。</p>"
+      },
+      {
+        "id": "eligibility",
+        "number": "03",
+        "title": "参与资格与申购",
+        "intro": "首期收益申购仅接受符合条件的 GEXFI 购U资金。",
+        "body": "<p>持有 GEXFI 账户或钱包内收到 USDT，并不直接代表具备申购资格。客户须符合账户及产品适用的审核要求。首期暂不接受从外部钱包直接充值的 USDT 用于收益申购。</p><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>资金来源或状态</th><th>首期处理方式</th></tr></thead><tbody><tr><td>符合条件的 GEXFI 购U资金</td><td>购U结算完成并通过资格核验后，可用于申购</td></tr><tr><td>外部钱包直接转入的 USDT</td><td>暂不用于收益申购</td></tr><tr><td>已为其他交易预留的余额</td><td>不可重复用于申购</td></tr><tr><td>尚未结算或待确认的购U金额</td><td>完成结算及必要审核后才可使用</td></tr><tr><td>Visa 卡内余额</td><td>不因卡与账户关联而自动成为申购资金</td></tr></tbody></table></div><h3>申购流程</h3><div class=\"steps\"><div class=\"step\"><span>01</span><div><h3>了解产品</h3><p>选择期限，阅读投资说明书及适用协议，核对目标收益与退出规则。</p></div></div><div class=\"step\"><span>02</span><div><h3>核对申购资金</h3><p>确认可用于申购的已结算可用金额。试算快捷金额不代表最低申购门槛。</p></div></div><div class=\"step\"><span>03</span><div><h3>提交申购指令</h3><p>确认金额及所需声明。提交指令不等于申购已获接受。</p></div></div><div class=\"step\"><span>04</span><div><h3>收到申购确认</h3><p>获接受的申购单独记为收益持仓，不再计入钱包可用资金。起息及到期信息以确认记录为准。</p></div></div></div><p>账户在客户确认指令前展示适用的申购限额及服务范围。仅已结算且符合条件的资金可以预留；指令在受理前被拒绝或取消时，解除资金预留，不形成收益持仓。账户限制或付款不匹配可能需要补充核验；确认起息前的期间不计入收益。</p>"
+      },
+      {
+        "id": "income-fees",
+        "number": "04",
+        "title": "收益计算与费用",
+        "intro": "展示的目标年化收益率已反映 0.50%／年的产品管理费，不再重复扣减。",
+        "body": "<div class=\"formula\">目标收益试算＝本金 × 扣管理费后目标年化 × 期限天数 ÷ 365</div><p>例如 1,000 USDT 申购 180 天产品：1,000 × 4.50% × 180 ÷ 365＝22.1917808 USDT，显示为 22.19 USDT。按日换算的目标收益仅为计提试算，不代表每日现金派付承诺。</p><h3>收益记录与结算</h3><p>持仓记录可展示目标计提金额及后续确认的收益，但须区分预计金额、已确认金额与已支付金额。收益曲线出现某一金额，不表示当日即可提取同额资金。结算单区分目标试算与实际结果，解释差额，并列明实际应付金额。收益依申购条款与到期持仓一并结算；每日记录不是独立的每日派付。</p><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>费用或成本</th><th>展示及处理方式</th></tr></thead><tbody><tr><td>产品管理费</td><td>0.50%／年，已反映在展示的净目标年化中，不从所示净目标收益再扣一次。</td></tr><tr><td>购U与兑换服务</td><td>成交报价可能包含汇率加价；客户确认前可核对实际支付及预计净到账金额。</td></tr><tr><td>卡充值与卡使用</td><td>属于独立服务，适用费用与预计入账金额依交易报价或卡条款展示。</td></tr><tr><td>链上转账</td><td>申请链上提币时可能产生网络费或转账费用。</td></tr><tr><td>税费</td><td>所示目标收益率未包含客户个人税务影响。</td></tr></tbody></table></div><aside class=\"note\">“净目标年化”指已反映所列产品管理费，不代表已扣除所有购U、兑换、转账、卡服务或个人税费。本产品不以“零费用”作出宣传。</aside><p>申购确认前提供的费用表载明管理费计提基础、收取时点及收取主体。展示的净目标收益不再额外扣除一次 0.50% 管理费。独立服务收费通过相应报价披露，不以另一笔管理费名义隐含扣收。内部交易成本和商业利润不计作向客户支付的投资收益。</p>"
+      },
+      {
+        "id": "management",
+        "number": "05",
+        "title": "管理、治理与资产持有",
+        "intro": "治理流程与法律责任分别明确，客户权益由适用申购文件载明。",
+        "body": "<h3>Eternova 机构背景</h3><p>本产品治理设计参考 Silver Fern No.1 Fund《Investment Memorandum 2025》所载框架。该文件将 Eternova GP Limited 列为普通合伙人（GP），记载金融服务提供商参考号 FSP554706，职责包括日常运营、合规监督及受托职责。其治理框架包括投资委员会、风险委员会、非执行监督及决策留档。[2]</p><p>上述内容为机构背景，不表示 Silver Fern No.1 Fund 是 GEX USDT Income 的发行人或保证人。原基金资产、投资者权益与第三方委任不会因本说明书而转移。FSP 登记参考本身不等同于金融服务牌照或产品批准。[3]</p><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>职能</th><th>在本产品中的职责</th></tr></thead><tbody><tr><td>GEXFI 客户界面</td><td>提供产品信息、账户访问、申购记录、报表，以及钱包与卡服务的连接。</td></tr><tr><td>发行与签约主体</td><td>申购协议具名的法律主体承担协议载明的义务；客户在资金承诺前取得其法定名称及自身请求权性质。</td></tr><tr><td>投资管理</td><td>申购文件载明的管理人依其授权管理资产配置、风险限额及收益结算。</td></tr><tr><td>资产持有与保管</td><td>资产持有条款载明实际账户持有人、保管安排及客户权益。接受存款的银行不因此自动成为独立托管人。</td></tr></tbody></table></div><h3>投资与运营控制</h3><p>控制框架区分投资审批、资金执行、财务核对与风险复核，并设置决策记录、关联方利益冲突审查及差异升级处理。内部监督不同于另行签约的审计、受托或法定监督服务。</p><h3>资产配置与客户权益</h3><p>USDT 为产品计价单位，并不代表全部资产始终以 USDT 持有。资产策略采用法币银行存款及现金流动性安排，货币兑换与对冲纳入内部资金管理。资产持有条款说明法律归属、隔离方式、控制权及破产时的处理；客户账本记录本身不等于信托权益、担保权或独立托管证明。</p>"
+      },
+      {
+        "id": "maturity",
+        "number": "06",
+        "title": "到期与赎回",
+        "intro": "到期后依条款结算赎回，不等于随时可提的钱包余额。",
+        "body": "<p>90 天、180 天及 365 天产品均按所选自然日期限持有，首期不设活期。已接受的申购确认记录起息日期、到期日期及适用赎回指令。</p><div class=\"steps\"><div class=\"step\"><span>01</span><div><h3>达到到期日</h3><p>持仓进入到期结算流程。持有期限届满，本身不等于钱包已有可用资金。</p></div></div><div class=\"step\"><span>02</span><div><h3>确认收益与应付款</h3><p>结算单记录本金、实际收益、适用的已披露扣项及净赎回金额。</p></div></div><div class=\"step\"><span>03</span><div><h3>钱包完成入账</h3><p>结算及必要核验完成后，将应付 USDT 记入 GEXFI 钱包。“处理中”不等于已入账。</p></div></div><div class=\"step\"><span>04</span><div><h3>安排使用或再次申购</h3><p>实际入账后，客户选择可用的钱包、转账或卡服务。再次申购须取得新的受理确认。</p></div></div></div><h3>结算时效</h3><p>订单适用的处理时效及工作日规则在确认前提供，并随订单留存。账户展示预计结算日期与处理进度。到期不等于 T+0 付款；钱包内部入账也不代表银行或卡账户已同时入账。</p><h3>提前退出与取消</h3><p>申购指令仅在受理前且账户允许时可取消。已接受的定期持仓不开放常规提前支取。法律允许或协议接受的例外退出单独处理；对应收益调整及已披露费用须经客户确认。本产品不承诺二级市场买方或平台回购。</p><h3>延迟、失败与续投</h3><p>必要核验、账户限制、争议指令或执行失败可能中断结算。客户记录保留相关金额、原因与状态，直至问题解决；失败交易不得标记为完成。通知按适用协议执行。不默认自动续投，再次申购须有新的指令或明确授权，并提前展示新期限及新利率。</p>"
+      },
+      {
+        "id": "records-card",
+        "number": "07",
+        "title": "钱包、卡与数字凭证",
+        "intro": "服务相互连接，余额分别记录，每一步均有独立交易依据。",
+        "body": "<h3>先赎回钱包，再选择卡充值</h3><p>赎回结算完成后，资金回到 GEXFI 钱包。卡充值是可选的独立交易，客户无须通过充值卡片才能取得钱包赎回款。卡服务开放、限额及使用范围以相关卡项目为准。</p><p>客户确认卡充值前，应查看付款资产、成交汇率、适用费用、预计卡内入账金额、报价有效期及处理条件。USDT 收益持仓不会自动成为以美元计价的卡余额，也不预设 USDT 与 USD 始终按 1:1 兑换。</p><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>记录</th><th>所证明的信息</th></tr></thead><tbody><tr><td>申购确认</td><td>获接受的订单、金额、期限、起止日期及适用文件版本</td></tr><tr><td>收益记录</td><td>预计收益、已确认分配与已支付金额的区分</td></tr><tr><td>赎回记录</td><td>申请、处理进度及实际结算结果</td></tr><tr><td>钱包／卡交易</td><td>实际完成的独立转账、兑换或卡入账</td></tr><tr><td>链上凭证（如已实现）</td><td>指定网络上的对应交易及其确认情况</td></tr></tbody></table></div><h3>链上记录的边界</h3><p>如提供链上记录，应载明网络、交易哈希、记录类别及确认状态。单一凭证不能独立证明全部底层资产的所有权、发行人的偿付能力或投资价值获得保证。</p><aside class=\"note\">数字凭证本身不创设可交易投资代币、自由转让权或二级市场。验证链接应对应指定网络上的真实记录，示例哈希不构成已发生交易的证明。</aside><h3>安全与记录更正</h3><p>客户应通过账户核实操作指令，并及时反映记录差异。记录更正应保留原交易轨迹并说明变更原因。公开链上记录不能替代投资协议。</p>"
+      },
+      {
+        "id": "risks",
+        "number": "08",
+        "title": "主要风险",
+        "intro": "评估目标收益的同时，应了解可能的损失及资金使用限制。",
+        "body": "<div class=\"table-scroll\"><table class=\"\"><thead><tr><th>风险</th><th>可能对客户产生的影响</th></tr></thead><tbody><tr><td>本金与业绩</td><td>目标收益可能无法实现；损失可能减少收益或本金。目标收益率不等于保证付款承诺。</td></tr><tr><td>发行人与交易对手</td><td>发行人、银行、执行机构或其他交易对手发生问题，可能导致延迟或损失。法律救济取决于申购协议及适用法律。</td></tr><tr><td>流动性与到期</td><td>资产未必能立即变现；固定期限、结算延迟或约定的暂停安排可能限制资金使用。</td></tr><tr><td>货币与对冲</td><td>非 USDT 资产敞口、汇率变化、对冲不匹配或对手方违约，可能影响实际 USDT 结果。对冲不消除全部风险。</td></tr><tr><td>USDT 与市值</td><td>USDT 市价可能偏离美元平价；发行条款、资格限制、流动性或其他限制可能影响转账与赎回。[1]</td></tr><tr><td>托管、运营与技术</td><td>密钥丢失、未授权操作、欺诈、记录错误、系统中断或服务机构故障，可能影响资产及交易。</td></tr><tr><td>法律、税务与服务变化</td><td>适用要求或服务条款变化，可能影响可用性、费用、申报及交易执行。</td></tr></tbody></table></div><h3>不作出的保证</h3><p>本文件不表示任何监管机构、银行、卡组织或 Tether 已批准、承保或保证 GEX USDT Income。内部账户记录不因此建立独立托管、资产保险或收益持仓的法定存款保障。</p><h3>风险并非穷尽列举</h3><p>客户应阅读适用的资产持有与申购条款，并结合自身情况获取适当意见，不应仅凭收益试算、宣传标题或链上记录决定申购。</p><p class=\"source-note\">[1] Tether《<a href=\"https://tether.to/en/legal/\" target=\"_blank\" rel=\"noopener noreferrer\">Token Terms of Sale and Service</a>》及其纳入的风险披露，查阅日期为 2026 年 10 月 8 日。该资料为第三方代币条款，不是 GEX 产品协议，也不代表双方存在合作背书。</p>"
+      },
+      {
+        "id": "documents",
+        "number": "09",
+        "title": "协议、客服与文件管理",
+        "intro": "产品说明与每笔交易适用的合同条款一并阅读。",
+        "body": "<p>本说明书版本为 1.0，日期为 2026 年 10 月 8 日，用于说明 GEX USDT Income 产品。它是产品信息文件，不是已签署的申购协议、牌照证明或交易已被接受的凭据。</p><h3>合同与交易记录</h3><p>客户作出资金承诺前，取得载明签约主体、投资权益、管理与资产持有安排、适用费用、结算条件、适用法律及争议处理的申购协议。订单确认随后记录已接受金额、收益率、期限、起息及到期日期，以及客户确认的文件版本。浏览网页或使用试算器不构成订单受理。</p><div class=\"table-scroll\"><table class=\"\"><thead><tr><th>文件</th><th>用途</th></tr></thead><tbody><tr><td>投资说明书</td><td>说明产品范围、目标收益、申购资格、费用、治理及主要风险。</td></tr><tr><td>申购协议与资产持有条款</td><td>载明该笔申购的法律主体、义务、资产归属安排及客户权益。</td></tr><tr><td>订单确认与结算单</td><td>记录具体交易及其实际结算结果。</td></tr><tr><td>钱包、兑换与卡服务条款</td><td>适用于客户另行选择的服务及对应交易报价。</td></tr></tbody></table></div><h3>语言与版本变更</h3><p>英文与中文版本采用相同产品参数和版本号。优先语言条款由客户接受的协议载明；重大文字差异应在确认前解决。后续官网变更不自动替换已接受申购的条款，交易记录保留向客户提供的文件版本。</p><h3>客服与投诉</h3><p>请通过 <a href=\"mailto:info@gexfi.com\">info@gexfi.com</a> 或账户内安全渠道联系 GEXFI，并提供订单编号及问题描述。不要发送密码、私钥或完整卡凭据。投诉依已接受的协议转交对应服务主体处理；适用的外部争议处理途径以协议载明信息为准。</p><h3>机构参考资料</h3><p class=\"source-note\">[2] Silver Fern No.1 Fund《Investment Memorandum 2025》第 3–6 页：Eternova GP Limited 及其治理框架。该资料用于说明历史机构背景，不转移原基金的授权、资产或第三方委任。<br>[3] 新西兰 Companies Office《<a href=\"https://fsp-register.companiesoffice.govt.nz/about/the-role-of-the-fspr/\" target=\"_blank\" rel=\"noopener noreferrer\">The role of the Financial Service Providers Register</a>》及《<a href=\"https://fsp-register.companiesoffice.govt.nz/help-centre/managing-your-registration-as-a-fsp/keeping-fsp-details-up-to-date/\" target=\"_blank\" rel=\"noopener noreferrer\">Keeping FSP details up to date</a>》，查阅日期为 2026 年 10 月 8 日。登记与服务牌照分属不同事项。</p>"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "id": 2,
+      "title": "Investment Memorandum 2025",
+      "pages": "3–6",
+      "use": "Historical Eternova GP Limited governance background; not a current appointment or licence assertion."
+    },
+    {
+      "id": 3,
+      "title": "New Zealand Companies Office FSPR role and registration guidance",
+      "url": "https://fsp-register.companiesoffice.govt.nz/about/the-role-of-the-fspr/",
+      "accessed": "2026-10-08"
+    }
+  ]
+}
