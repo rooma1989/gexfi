@@ -1,8 +1,0 @@
-{
-  "baseline": "GEXFI_Production_Integrated_20261009_V8_IT.zip / customer documents v1.0",
-  "sha256": {
-    "documents/GEX_USDT_Income_Investment_Memorandum_EN_v1.0.pdf": "ced5e8c4daf7e21fba532b970005b2aba06a76d9368aeb1a5fb6b306f7ef69c2",
-    "documents/GEX_USDT_Income_Investment_Memorandum_ZH_v1.0.pdf": "16d24e44ce6e7275253402fa2bd9e734aacdbd40a30008fa10bfca15b2d5e747",
-    "source/memo-content.json": "a6d6832d0fe636ad56867b1165e9dcaf46ed4e44b6f9af54f01f5b928eb03cbc"
-  }
-}

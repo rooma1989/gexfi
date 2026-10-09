@@ -1,8 +1,0 @@
-{
-  "default_disabled": true,
-  "only_expected_custom_event": true,
-  "host_style_unchanged": true,
-  "component_isolated_from_host_button_styles": true,
-  "unknown_balance_not_zero": true,
-  "uncaught_errors": []
-}

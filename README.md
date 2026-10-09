@@ -16,12 +16,6 @@ The `GEXFI_Production_Integrated_20261009_V8_IT.zip` website content is merged w
 
 This is a static website integration. It does not add an H5 subscription flow or account and payment APIs. For local review, run the preview command below and open `/usdt-income/` or `/usdt-income/?lang=zh`.
 
-## H5 Income V2 prototype
-
-The supplied H5 Income V2 dark and fiat purchase package is preserved in `h5-income-v2/` for local review and future H5 integration. It is outside the Netlify publish directory (`www.gexfi.com`), so deploying this website does not publish the prototype or enable payments.
-
-To preview the modular prototype on port 4195, run `python3 -m http.server 4195 --bind 0.0.0.0 --directory h5-income-v2` and open `http://localhost:4195/prototype/h5-income.html?lang=zh`. The self-contained version is at `http://localhost:4195/GEXFI_H5_Income_Standalone.html?lang=zh`. Both use demonstration data and a non-payment QR code.
-
 ## Local preview
 
 Run `node scripts/preview.mjs` and open `http://localhost:4195/`. The preview serves both the static pages and the local rate function. For live rates, fill a local `.env` file using `.env.example` and run `node --env-file=.env scripts/preview.mjs`. The installed `gexfi-preview` user service also reads `.env` when restarted. Without credentials, the board displays an unavailable state.
